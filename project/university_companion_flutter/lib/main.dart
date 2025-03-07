@@ -32,4 +32,4 @@ class UniversityCompanionApp extends StatelessWidget {
       home: const SplashScreen(),
     );
   }
-}
+}///tinbibi
